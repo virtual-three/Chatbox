@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:autoMirrored="true">
+  <group>
+    <path
+        android:fillColor="@color/purple_200"
+        android:pathData="M0,12
+            A12,12 0 1,1 24,12
+            A12,12 0 1,1 0,12"/>
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M
+    6.01,21 L22,12
+    6.01,3 5,10
+    l15,2 -15,2z"/>
+
+  </group>
+
+</vector>
